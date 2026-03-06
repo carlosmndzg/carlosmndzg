@@ -7,7 +7,7 @@ I'm a passionate software developer from Asturias, Spain. I'm currently studying
 My interests span across **full-stack development**, **artificial intelligence**, **systems programming**, and technology in general. I'm always eager to learn, create, and push the boundaries of what's possible with code.
 
 ## 🌐 Portfolio
-Feel free to check out my portfolio at [carlosmenendez.dev](https://carlosmenendez.dev) to see what I've been working on!
+Feel free to check out my portfolio at [carlosmenendez.com](https://carlosmenendez.com) to see what I've been working on!
 
 ## 🛠️ Technologies I've worked with:
 <div>
